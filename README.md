@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Rafael Weyrich  👋
 
-<!--
-**rafaelweyrich/rafaelweyrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
+📈 I'm Software Engineer/Web Devoloper, and I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/) and the internet with constant learning.
 
-Here are some ideas to get you started:
+### Current Stack
+- 🚀 Main language: `Javascript`
+- 💥 Backend: `NodeJs`
+- 🌐 Frontend: `ReactJs`, `HTML5`, `CSS3`, `Javascript`
+- ✨ Layout Design: `Figma`
+- 🎉 Version code control: `Git & Github`
+- 🔧 Tools: `Vscode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+
+🗃️ E-mail: rafaelweyrich@outlook.com	
+👔 Linkedin: https://www.linkedin.com/in/rafael-weyrich/
