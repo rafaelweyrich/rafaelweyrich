@@ -12,5 +12,5 @@
 - 🔧 Tools: `Vscode`
 
 ### Contacts
-🗃️ E-mail: rafaelweyrich@outlook.com	
-👔 Linkedin: https://www.linkedin.com/in/rafael-weyrich/
+- 🗃️ E-mail: rafaelweyrich@outlook.com	
+- 👔 Linkedin: https://www.linkedin.com/in/rafael-weyrich/
